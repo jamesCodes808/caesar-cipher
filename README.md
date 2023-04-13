@@ -24,12 +24,10 @@ source .venv/bin/activate
 
 can edit the phrases to encrypt, decrypt and crack
 ```python
-
 phrase = 'apple'
 print(encrypt('apple', 1))
 print(decrypt('bqqmf', 10))
 print(crack('bqqmf'))
-
 ```
 
 run script
